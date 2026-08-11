@@ -1,0 +1,35 @@
+h1 {
+  color: rgb(255, 251, 251);
+}
+
+body {
+  background-color: rgb(20, 20, 20);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  margin-top: 115px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.container h1 {
+  color: rgb(255, 251, 251);
+}
+
+.container h2 {
+  color: rgb(255, 251, 251);
+}
+
+.container h3 {
+  color: rgb(255, 251, 251);
+}
+
+.container h4 {
+  color: rgb(255, 251, 251);
+}
